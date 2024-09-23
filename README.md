@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manasvi Sharma</h1>
 <h3 align="center">A passionate React-Native developer from India</h3>
 
-- 🔭 I’m currently working on **Quivio**
-
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **React Native , CSS , HTML , JS ,Java**
 
