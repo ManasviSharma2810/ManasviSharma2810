@@ -2,9 +2,6 @@
 <h3 align="center">A passionate React-Native developer from India</h3>
 
 - 🌱 I’m currently learning **React-Native**
-
-- 💬 Ask me about **React Native , CSS , HTML , JS ,Java**
-
 - 📫 How to reach me **manasvi.sharma@appinventiv.com**
 
 <h3 align="left">Connect with me:</h3>
